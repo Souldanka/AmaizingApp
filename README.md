@@ -1,1 +1,2 @@
+# AmaizingApp
 # AmaizingApp-test
